@@ -1,16 +1,30 @@
 ## Hi there 👋
+# Alcides Aybar Galdos
 
-<!--
-**AAybarGaldos/AAybarGaldos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research in Water Engineering, Ecohydrology and Riverbed Clogging.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. Here I share code, data, and reproducible workflows accompanying my scientific research and publications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Water Sciences
+- Water Engineering
+- Riverbed clogging
+- Ecohydrology
+- Fine sediment dynamics
+- River restoration
+- Environmental monitoring
+- Data analysis
+
+## Current Focus
+
+Developing quantitative methods to assess riverbed clogging and hyporheic connectivity through field measurements, statistical analysis, and open science.
+
+## Selected Repositories
+
+- 📊 Riverbed-Clogging-Reference-Values
+- 📑 Reproducible code accompanying scientific publications
+
+## Profiles
+
+- ORCID: (https://orcid.org/0009-0008-2904-9306)
